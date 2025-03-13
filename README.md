@@ -1,3 +1,6 @@
+A place where memories come to life!
+
+This is a simple HTML & CSS project showcasing an image gallery with a modern design.
 The website consists of:
 
 📌 Homepage – A welcoming landing page with a smooth UI.
